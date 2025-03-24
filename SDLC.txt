@@ -1,0 +1,98 @@
+Software development life cycle (SDLC) is a structured process that is used to design, develop, and test good-quality software.
+
+
+SDLC is a process followed for software building within a software organization. SDLC consists of a precise plan that describes how to develop, maintain, replace, and enhance specific software.
+
+
+SDLC Model has 6 phases:-
+1. Planning and Requirement Analysis:-  Requirement analysis is also performed by the developers of the organization. This is attained from customer inputs, and sales department/market surveys. 
+
+2. Defining Requirements:-This is fulfilled by utilizing SRS.
+Software-Requirement-Specification (SRS):The document that specifies all those things that need to be defined and created during the entire project cycle.
+
+3. Designing Architecture:-With the requirements defined in SRS, multiple designs for the product architecture are present in the Design Document Specification (DDS).This DDS is assessed by market analysts and stakeholders. After evaluating all the possible factors, the most practical and logical design is chosen for development.
+
+4.Developing Product:-At this stage, the fundamental development of the product starts. For this, developers use a specific programming code as per the design in the DDS.
+
+5.Product Testing and Integration:-After the development of the product, testing of the software is necessary to ensure its smooth execution. Therefore, at this stage, all the probable flaws are tracked, fixed, and retested. This ensures that the product confronts the quality requirements of SRS. 
+
+6.Deployment and Maintenance of Products:-After detailed testing, the conclusive product is released in phases as per the organization’s strategy. Then it is tested in a real industrial environment
+
+
+Different SDLC Models:-
+1.WaterFall Model
+2.Agile Model
+3.Iterative Model
+4.Spiral Model
+5.V-Shaped Model
+
+Waterfall Model:-Sequential model where each phase must be completed before moving to the next phase. Simple and easy to understand. Suitable for well-defined requirements. But it is rigid and not flexibility for changes. Late discovery of errors and not suitable for complex projects. Best Projects with stable requirements and no anticipated changes.
+
+Agile Model:-Iterative and incremental model, focused on flexibility, collaboration, and feedback. Highly adaptable to changes. Delivers working software frequently. High customer involvement. May lack proper documentation. Hard to scale for large teams. Projects with dynamic requirements or when customer collaboration is essential.
+
+Iterative Model:-Develops the system incrementally through repeated cycles known as iterations. Early detection of risks, Easier testing and debugging, Delivers a functional product early.Can become resource-intensive. Requires clear modularity of the system. Large systems with high risk or unclear requirements.
+
+Spiral Model:-It has various spirals in its diagrammatic representation; the number of spirals depends upon the type of project. Each loop in the spiral structure indicates the Phases of the Spiral model. High cost and time consumption. Requires expertise in risk assessment. Projects with significant risks or where requirements are uncertain and evolving. Projects with significant risks or where requirements are uncertain and evolving.
+
+V-Shaped Model:-The V-shaped model in SDLC is executed in a sequential manner in V-shape. Each stage or phase of this model is integrated with a testing phase. After every development phase, a testing phase is associated with it, and the next phase will start once the previous phase is completed, i.e., development & testing. It is also known as the verification or validation model. For systems like aerospace and healthcare which require thorough testing.
+
+Tools used in SDLC:-
+A. Requirements Gathering and Analysis:-
+Jira: For requirements management, issue tracking, and collaboration.
+Confluence: For creating documentation and knowledge sharing.
+Lucid Chart: For drawing process flows and diagrams.
+IBM DOORS: A tool for managing complex requirements.
+
+B. Planning:-
+Microsoft Project: For Gantt charts and resource allocation.
+Microsoft Teams: For team communication and collaboration.
+Trello: A lightweight project management tool based on Kanban boards.
+
+C. Design:-
+Adobe XD/Figma/Sketch: For creating UI/UX wireframes and prototypes.
+Axure RP: For advanced prototyping and wireframe creation.
+Lucid Chart: For drawing UML diagrams, flowcharts, and architectural diagrams.
+
+D. Development:-
+Visual Studio Code: A versatile code editor with extensions for many languages.
+IntelliJ IDEA: IDE for Java, Kotlin, and other JVM-based languages.
+Git GitHub:-For version control and collaborative development
+Postman: For API development and testing.
+Docker: For containerizing applications and managing dependencies
+
+
+E. Testing:-
+Selenium: For automated browser testing.
+JUnit / TestNG: For Java-based unit testing.
+Jest / Mocha: For JavaScript and Node.js testing.
+Appium: For mobile app testing (iOS and Android).
+
+F. deployment:-
+AWS CodeDeploy: For automating application deployments on AWS.
+Azure DevOps, Kubernetes, Ansible.
+
+
+Challenges in SDLC:-
+1. Changing Requirements: Requirements can evolve during development, leading to potential delays and increased costs.
+
+2. Poor Communication: Ineffective communication among team members, stakeholders, and end-users can cause misunderstandings and errors.
+
+3. Neglecting Version Control and Artifact Management: Overlooking tagging, release numbering, and artifact management in continuous integration and delivery pipelines can lead to traceability issues and deployment inconsistencies. 
+
+4. Unfitted Development Methodology: Choosing an unsuitable development methodology can lead to inefficiencies.
+
+5. Lack of Resources: Insufficient resources, including skilled personnel, budget, or tools, can hinder project progress.
+
+6. Inadequate Planning and Requirement Analysis: Skipping thorough planning and requirement analysis can lead to project scope creep and misaligned objectives.
+
+
+Future Trends in SDLC:-
+1.Platform Engineering: The emergence of platform engineering focuses on creating reusable services, components, and tools to streamline application delivery.
+
+2.Continuous Everything: The concept of "Continuous Everything" is gaining traction, encompassing continuous integration, testing, monitoring, security, and optimization throughout the SDLC.
+
+3.AI-Driven Development: Artificial Intelligence (AI) is increasingly integrated into various SDLC phases. Tools like GitHub Copilot assist in code generation, while AI-powered testing tools enhance quality assurance.
+
+4.Low-Code/No-Code Platforms: The adoption of low-code and no-code platforms is enabling faster application development by allowing developers to create applications with minimal hand-coding.
+
+5.Focus on Developer Experience (DevEx): Improving the overall experience of developers is gaining importance. Efforts are being made to reduce cognitive load, provide better tools, and create more efficient workflows, leading to increased productivity and job satisfaction.

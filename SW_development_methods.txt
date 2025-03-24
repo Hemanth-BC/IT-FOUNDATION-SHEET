@@ -1,0 +1,23 @@
+Software Development Methodologies:-
+A. Agile:- Agile means the ability to move quickly easily and respond to changes rapidly. Agile Software Development is a software development methodology that values flexibility, collaboration, and customer satisfaction.  The Agile Model was primarily designed to help a project adapt quickly to change requests. So, the main aim of the Agile model is to facilitate quick project completion.
+Steps in Agile Model:-
+1. Requirements.
+2. Designing the requirements.
+3. Construction and iterations.
+4. Testing and quality assurance.
+5. Deployment.
+6. Feedback
+
+B. Scrum:- Scrum is a lightweight framework for agile development. It is subset of Agile Software development process which is nothing but an iterative and incremental software development technology. Scrum divides the software development process into fixed-length iterations called sprints, which typically last from one to four weeks.
+Each sprints consists of four phases:-
+1. Sprint Planning:-In this stage, the Product owner defines a goal for the sprint at starting time of the sprint.
+2. Daily Scrum Meeting:- Scrum team gathers together in a meeting for around 15 minutes. They specify the progress report and roadblocks.
+3. Sprint Review:-In this stage, the team demonstrates that what is ready for delivery to the customers. A meeting gets conducted between the customer, product owner, and the Scrum Team. 
+4. Sprint Retrospective:-In this stage, Feedback is taken about the team that how they worked in the last sprint, and what action needs to be taken for improvement.
+
+C. Kanban:- Kanban is effective way to manage projects and make your workflow even better. Basically, you use a board with columns that show the different stages of your plan, and you use cards to represent tasks or features. The board is divided into sections like "To Do," "In Progress," "In Review," and "Done." It's easy to understand and helps to keep track of everything, and also helps the teams to monitor and control at each stages and apply changes to improve efficiency.
+
+D. DevOps:- DevOps is basically a combination of two words- Development and Operations, which promotes collaboration between development and operations teams, resulting in better communication, increased efficiency, and faster delivery of the new products and frequent updates. The goal of DevOps is to increase an organization’s speed when it comes to delivering applications and services. 
+
+
+
