@@ -32,7 +32,7 @@ Agile Model:-Iterative and incremental model, focused on flexibility, collaborat
 
 Iterative Model:-Develops the system incrementally through repeated cycles known as iterations. Early detection of risks, Easier testing and debugging, Delivers a functional product early.Can become resource-intensive. Requires clear modularity of the system. Large systems with high risk or unclear requirements.
 
-Spiral Model:-It has various spirals in its diagrammatic representation; the number of spirals depends upon the type of project. Each loop in the spiral structure indicates the Phases of the Spiral model. High cost and time consumption. Requires expertise in risk assessment. Projects with significant risks or where requirements are uncertain and evolving. Projects with significant risks or where requirements are uncertain and evolving.
+Spiral Model:-It has various spirals in its diagrammatic representation; the number of spirals depends upon the type of project. Each loop in the spiral structure indicates the Phases of the Spiral model. High cost and time consumption. Requires expertise in risk assessment. Projects with significant risks or where requirements are uncertain and evolving.
 
 V-Shaped Model:-The V-shaped model in SDLC is executed in a sequential manner in V-shape. Each stage or phase of this model is integrated with a testing phase. After every development phase, a testing phase is associated with it, and the next phase will start once the previous phase is completed, i.e., development & testing. It is also known as the verification or validation model. For systems like aerospace and healthcare which require thorough testing.
 
